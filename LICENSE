@@ -1,0 +1,20 @@
+PSP-OS is licensed under the Creative Commons Attribution-NonCommercial-
+ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+
+You may copy, redistribute, remix, transform and build upon this material for
+non-commercial purposes, provided that you give appropriate credit, indicate if
+changes were made, and distribute your contributions under the same license.
+
+Full legal text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+Summary:         https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+This repository does not contain NumWorks Epsilon. The patch (patches/psp-os-epsilon.patch) applies to
+NumWorks' own source code, which each user downloads from
+https://github.com/numworks/epsilon. Epsilon is copyright NumWorks, all rights
+reserved, and is not covered by this license. NumWorks is a registered
+trademark of NumWorks.
+
+PSP-OS is an unofficial fan project, not affiliated with or endorsed by Sony
+Interactive Entertainment or NumWorks. PlayStation, PSP and XMB are trademarks
+of Sony Interactive Entertainment. The icons of PSP-OS are original drawings
+made for this project (apps/home/psp/gen_icons.py in the patch).
